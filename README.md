@@ -1,9 +1,6 @@
 # Lane detection and turn prediction
 Developed a lane detection algorithm using edge detection, Hough transform, homography, and curve-fitting techniques. Achieved 95% accuracy in predicting car turn direction and computing curvature radius. Used semantic segmentation to identify the drivable areas.
 
-## Author
-Rohit M Patil
-
 ---
 ## Results
 * **Lane detection**
